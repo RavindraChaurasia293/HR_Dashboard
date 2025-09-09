@@ -31,10 +31,6 @@ To simplify HR reporting and make employee data analysis more efficient, transpa
 3. Use filters and slicers to interact with the dashboard.  
 4. Explore insights on salaries, departments, gender, and leaves.  
 
----
-
-## 📸 Sample Preview
-*(Add a screenshot of your dashboard here for better presentation)*  
 
 ---
 
